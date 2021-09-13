@@ -1,4 +1,16 @@
-,Task,Start,Finish,Member
-0,Job A,2021-09-01,2021-10-02,Clifton
-1,Job B,2021-09-02,2021-10-03,Aditya
-2,Job C,2021-09-03,2021-10-04,Arslan
+,Task,Start,Finish,Member,Time required,Category
+0,Creating the SRS,2021-08-28,2021-09-06,All,1,Documentation
+1,Creating the Gantt Chart,2021-09-04,2021-09-13,Clifton,1,Documentation
+2,Making the UML Diagram,2021-09-13,2021-09-20,"Arslan, Aditya",1,Documentation
+3,Desining the overall layout of the tool,2021-08-28,2021-09-20,All,3,Documentation
+4,Understanding the needs from a proffesional,2021-09-20,2021-10-11,All,3,Chatbot
+5,Designing the Chatbot,2021-10-11,2021-10-25,"Clifton, Aditya, Arslan",2,Chatbot
+6,Training the Chatbot,2021-10-18,2021-11-01,"Clifton, Aditya, Arslan",2,Chatbot
+7,Implementing the Chatbot,2021-11-01,2021-11-08,"Clifton, Aditya, Arslan",1,Chatbot
+8,Designing the appointment manager,2021-10-11,2021-10-18,"Arslan, Aditya",1,Appointment Manager
+9,Implementing the appointment manager,2021-10-18,2021-11-01,"Arslan, Aditya",2,Appointment Manager
+10,Collecting resources,2021-10-25,2021-11-08,s,2,Resources
+11,Designing a database for the resources,2021-11-08,2021-11-15,Aditya,1,WebDeb
+12,Backend for the app,2021-10-11,2021-12-06,"Clifton, Aditya, Arslan",8,WebDeb
+13,Implementing the frontend,2021-10-11,2021-12-06,Aditya,8,WebDeb
+14,"Integration of backend, frontend and database",2021-12-06,2021-12-13,All,1,WebDeb
