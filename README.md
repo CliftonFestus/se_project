@@ -1,7 +1,21 @@
-# se_project
-Software Engineering project
+# Software Engineering project
 
-To use the chatbot: clone the repository(git clone: "URL")
-git to the "Chatbot" directory
-run cbot.py script
+## To test the App:
+run the following commands in the cli
+
+#### $ git clone https://github.com/CliftonFestus/se_project.git
+#### $ cd se_project
+#### $ streamlit run app.py
+
+
+![Alt text](cli.png?raw=true "Title")
+
+<br>
+<br>
+
+##### open a web browser and enter the following url:-
+http://localhost:8501/
+
+![Alt text](app.png?raw=true "Title")
+
 
