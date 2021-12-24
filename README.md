@@ -3,9 +3,13 @@
 ## To test the App:
 run the following commands in the cli
 
-#### $ git clone https://github.com/CliftonFestus/se_project.git
-#### $ cd se_project
-#### $ streamlit run app.py
+#### cloning the repository on your local machine
+    git clone https://github.com/CliftonFestus/se_project.git
+#### move to the se_project repository
+    cd se_project
+    
+#### running app on local machine
+    streamlit run app.py
 
 
 ![Alt text](cli.png?raw=true "Title")
